@@ -1,7 +1,7 @@
 # sitegot
 # http://sitegot.github.io
-# Faculdade-GTI
-Meus projetos
+
+
 git clone echo "# Faculdade-GTI" >> README.md
 git init
 git add README.md
